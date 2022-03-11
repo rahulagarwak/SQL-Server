@@ -1,4 +1,4 @@
---Problem: Show all the combinations of matches that could be played between given teams, remeber (a,b)=(b,a)
+--Problem: Show all the values in a column in a single cell separated by comma
 
 Declare @name varchar(max);
 Declare @i varchar(max);
