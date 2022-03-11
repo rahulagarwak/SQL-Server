@@ -1,3 +1,5 @@
+--Problem: Show all the combinations of matches that could be played between given teams, remeber (a,b)=(b,a)
+
 Declare @name varchar(max);
 Declare @i varchar(max);
 
