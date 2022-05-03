@@ -1,5 +1,3 @@
---Problem: Show all the values in a column in a single cell separated by comma
-
 Declare @name varchar(max);
 Declare @i varchar(max);
 

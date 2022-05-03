@@ -1,0 +1,53 @@
+
+(20 rows affected)
+
+(10 rows affected)
+SeatNo      Status
+----------- ------
+1           O
+2           O
+3           A
+4           A
+5           A
+6           O
+7           A
+8           O
+9           O
+10          O
+11          O
+12          A
+13          A
+14          O
+15          O
+16          A
+17          O
+18          A
+19          A
+20          A
+
+(20 rows affected)
+
+RowA        RowB
+----------- -----------
+1           2
+3           4
+5           6
+7           8
+9           10
+11          12
+13          14
+15          16
+17          18
+19          20
+
+(10 rows affected)
+
+SeatNo      SeatNo      Status Status
+----------- ----------- ------ ------
+3           4           A      A
+19          20          A      A
+
+(2 rows affected)
+
+
+Completion time: 2022-03-14T10:39:50.0052920+05:30

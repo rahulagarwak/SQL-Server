@@ -1,5 +1,3 @@
---Problem: Show all the combinations of matches that could be played between given teams, remeber (a,b)=(b,a)
-
 create table #temp (Id int, CName Varchar(max))
 insert into #temp values (1,'India'), (2,'Australia'), (3,'Srilanka'), (4,'England')
 
